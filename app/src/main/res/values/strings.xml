@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">networking-in-android</string>
+    <string name="baseUrl">http://api.walmartlabs.com/v1/search?</string>
+    <string name="myKey">bwqyzg6n62xjvcethb8enum5</string>
+
+    <string name="API_KEY">apiKey</string>
+    <string name="QUERY">query</string>
+
 </resources>
